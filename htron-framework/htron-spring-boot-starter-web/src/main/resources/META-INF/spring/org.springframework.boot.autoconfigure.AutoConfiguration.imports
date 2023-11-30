@@ -1,0 +1,5 @@
+top.howie.htron.framework.apilog.config.HtronApiLogAutoConfiguration
+top.howie.htron.framework.jackson.config.HtronJacksonAutoConfiguration
+top.howie.htron.framework.swagger.config.HtronSwaggerAutoConfiguration
+top.howie.htron.framework.web.config.HtronWebAutoConfiguration
+top.howie.htron.framework.xss.config.HtronXssAutoConfiguration

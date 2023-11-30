@@ -1,0 +1,2 @@
+top.howie.htron.framework.mq.redis.config.HtronRedisMQAutoConfiguration
+top.howie.htron.framework.mq.rabbitmq.config.HtronRabbitMQAutoConfiguration

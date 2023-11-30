@@ -1,0 +1,2 @@
+top.howie.htron.framework.datasource.config.HtronDataSourceAutoConfiguration
+top.howie.htron.framework.mybatis.config.HtronMybatisAutoConfiguration
